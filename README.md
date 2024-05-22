@@ -30,3 +30,6 @@ If you have any feedback, please reach out to us at rashmidivya.shree6@gmail.com
 
 - [@Rashmi Shree S](https://github.com/rashmi-shree)
 
+<div align="center">
+    <img src="https://github.com/rashmi-shree/rashmi-shree/blob/main/7E1FA88D-89D0-41DA-B761-97608209228D.PNG?raw=true" align="center" style="width: 5rem; height: 5rem;" />
+</div> 
