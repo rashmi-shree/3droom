@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/rashmi-shree/rashmi-shree/blob/main/7E1FA88D-89D0-41DA-B761-97608209228D.PNG?raw=true" align="center" style="width: 10rem; height: 10rem;" />
+    <img src="https://github.com/rashmi-shree/rashmi-shree/blob/main/7E1FA88D-89D0-41DA-B761-97608209228D.PNG?raw=true" align="center" style="width: 15rem; height: 10rem;" />
 </div> 
 
 # 3D Room
